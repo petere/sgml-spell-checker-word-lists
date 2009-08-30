@@ -1,0 +1,11 @@
+These are additional word lists to use with the sgml-spell-checker package.
+
+pg-general-wordlist.txt
+  Words for the PostgreSQL documentation that should actually be in the
+  standard dictionary.
+
+pg-specific-wordlist.txt
+  Words for the PostgreSQL documentation that might be jargon enough not to
+  belong in a standard dictionary.
+
+See sgml-spell-checker(1) man page for usage instructions.
