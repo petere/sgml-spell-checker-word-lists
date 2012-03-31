@@ -63,6 +63,7 @@ hardcoding
 hereunder
 incrementally
 incrementing
+indexable
 indices
 internationalization
 interoperate
@@ -79,6 +80,7 @@ login
 lookup
 merchantability
 metadata
+millennia
 misdesign
 multibyte
 multicolumn
@@ -130,6 +132,7 @@ recoded
 recoding
 recommendable
 reconnect
+recursing
 reinstall
 reinstalled
 relabel
@@ -147,6 +150,7 @@ serializable
 SQL
 SQL's
 SSL
+startup
 subarray
 subarrays
 subdirectories
@@ -172,6 +176,7 @@ subtable
 subtables
 subtypes
 supertable
+syntaxes
 TCP
 tokenized
 totalling

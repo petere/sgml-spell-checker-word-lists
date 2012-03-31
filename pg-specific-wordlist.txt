@@ -5,6 +5,7 @@ arounds
 backend
 backquotes
 classful
+collatable
 Eisentraut
 Elphick
 forma
@@ -51,9 +52,14 @@ servlets
 SPI
 Stonebraker
 subplan
+subscripted
 substyle
 substyles
 subscriptable
+subtransaction
+subtransactions
+tablespace
+tablespaces
 Tatsuo
 Tcl
 unaliased
