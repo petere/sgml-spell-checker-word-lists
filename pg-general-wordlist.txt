@@ -27,6 +27,7 @@ bottommost
 Bourne
 cacheable
 cancelling
+cardinality
 coercible
 commutator
 commutators
@@ -199,6 +200,7 @@ unescaping
 ungrouped
 unhandled
 unindexed
+unintuitive
 unneeded
 unordered
 unpatched

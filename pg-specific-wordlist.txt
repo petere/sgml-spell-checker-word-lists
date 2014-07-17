@@ -2,6 +2,7 @@ accessor
 Adriaan
 Andreas
 arounds
+autovacuum
 backend
 backquotes
 classful
@@ -13,15 +14,18 @@ Fournier
 frontend
 GCC
 GiST
+grantable
 hardcode
 hashable
 Hayward
+holdable
 inline
 Ishii
 isolatable
 joinable
 Karel
 Lockhart
+lossy
 makefile
 makefiles
 Meskes
@@ -64,8 +68,10 @@ Tatsuo
 Tcl
 unaliased
 unexpired
+unlogged
 Vadim
 validator
+variadic
 versioning
 WAL
 whitespace
