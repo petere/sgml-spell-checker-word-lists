@@ -41,6 +41,8 @@ decompiled
 deferrable
 dereference
 dereferencing
+designator
+designators
 deterministically
 disjunction
 downtime
@@ -74,6 +76,8 @@ IP
 JDBC
 Kerberos
 leaves
+lexeme
+lexemes
 lexicographical
 linkable
 locator
@@ -148,6 +152,7 @@ schemata
 selectable
 sellable
 serializable
+shareable
 SQL
 SQL's
 SSL
@@ -180,6 +185,7 @@ supertable
 syntaxes
 TCP
 tokenized
+topologies
 totalling
 towards
 transactional
